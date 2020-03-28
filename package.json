@@ -1,0 +1,11 @@
+{
+  "name": "ssg-prototype",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sw-yx/ssg-prototype",
+  "author": "swyx <shawnthe1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "svelte": "^3.20.1"
+  }
+}

@@ -1,0 +1,1 @@
+<div>Misc component</div>
