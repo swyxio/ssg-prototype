@@ -9,6 +9,9 @@
   }
 </style>
 
+<svelte:head>
+  <title>App</title>
+</svelte:head>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
