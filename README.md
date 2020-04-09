@@ -53,6 +53,7 @@ Features to design for:
 - we can stop and rerun any stages if misconfigured
 - REPL for data
 - Filesystem routing
+- postprocessing step - generate tags page, generate links per page
 
 Nonfeatures:
 
